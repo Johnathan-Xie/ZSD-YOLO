@@ -9,7 +9,6 @@ certifi==2020.6.20
 cffi==1.14.6
 charset-normalizer==2.0.4
 click==8.0.1
-clip==1.0
 configparser==5.0.2
 cycler==0.10.0
 Cython==0.29.24
@@ -101,9 +100,6 @@ terminado==0.10.1
 testpath==0.5.0
 thop==0.0.31.post2005241907
 threadpoolctl==3.0.0
-torch==1.7.1+cu110
-torchaudio==0.7.2
-torchvision==0.8.2+cu110
 tornado==6.1
 tqdm==4.61.2
 traitlets==5.0.5

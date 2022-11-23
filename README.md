@@ -17,6 +17,7 @@
 $ git clone https://github.com/Johnathan-Xie/ZSD-YOLO
 $ cd ZSD-YOLO
 $ pip install -r requirements.txt
+$ pip install git+https://github.com/openai/CLIP.git
 ```
 </details>
 <details open>

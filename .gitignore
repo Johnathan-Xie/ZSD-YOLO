@@ -5,5 +5,3 @@ wandb
 embeddings/*
 data/*
 .ipynb_checkpoints
-data-generation.ipynb
-definition-application.ipynb

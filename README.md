@@ -96,18 +96,12 @@ $ python3 train.py --data data/vg/vg_zsd_test.yaml --weights weights/pretrained_
 ## Citing ZSD-YOLO
 
 ```
-@article{DBLP:journals/corr/abs-2109-12066,
-  author    = {Johnathan Xie and
-               Shuai Zheng},
-  title     = {{ZSD-YOLO:} Zero-Shot {YOLO} Detection using Vision-Language KnowledgeDistillation},
-  journal   = {CoRR},
-  volume    = {abs/2109.12066},
-  year      = {2021},
-  url       = {https://arxiv.org/abs/2109.12066},
-  eprinttype = {arXiv},
-  eprint    = {2109.12066},
-  timestamp = {Mon, 27 Sep 2021 15:21:05 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2109-12066.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+@inproceedings{xie2022zero,
+  title={Zero-shot object detection through vision-language embedding alignment},
+  author={Xie, Johnathan and Zheng, Shuai},
+  booktitle={2022 IEEE International Conference on Data Mining Workshops (ICDMW)},
+  pages={1--15},
+  year={2022},
+  organization={IEEE}
 }
 ```
